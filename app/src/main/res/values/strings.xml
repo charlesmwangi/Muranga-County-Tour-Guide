@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Muranga County Tour Guide</string>
+
+    <string name="attraction_card_image_view_content_desc">ImageView displaying the attraction\'s image file</string>
+    <string name="list_item_image_view_content_desc">Image of Attraction</string>
+    <string name="list_item_right_arrow_image_content_desc">Right arrow image to move forward to the next activity</string>
+    <string name="detail_image_cd">Image of Attraction</string>
+    <string name="map">Show in Map</string>
+    <!-- Category name for Schools -->
+    <string name="category_schools">Schools</string>
+
+    <!-- Category name for Malls -->
+    <string name="category_malls">Mall</string>
+
+    <!-- Category name for Hotels -->
+    <string name="category_hotels">Hotel</string>
+
+    <!-- Category name for Restaurants -->
+    <string name="historical_sites">Historic sites</string>
+
+    <string name="Blue_Post_Hotel_name">Blue Post Hotel</string>
+    <string name="blue_post_hotel_desc">The hotel next to Chania Falls. Beautiful scenery.
+        You will lose yourself in the sight and sound of the Chania Falls when you stay at this hotel.
+        One of the Oldest hotels in Kenya that must be one of the most beautiful and spacious hotels around.  </string>
+    <string name="blue_post_hotel_addr">Blue Post Hotel, Thika - Muranga Road, Thika</string>
+
+    <string name="golden_palm_breeze_name">Golden Palm Breeze Hotel</string>
+    <string name="golden_palm_breeze_desc">Golden Palm Breeze Hotel is located off Kenol in Muranga, Kenya. Free WiFi is available,
+        All rooms are air-conditioned and fitted with en-suite bathroom, flat screen TVs and double beds.
+        The on-site restaurant serves local and continental complimentary breakfast which can be enjoyed at the on-site restaurant.
+        Guests can also enjoy meals outdoors at the garden which features carpet grass and manicured hedges. The hotel houses a gym and an outdoor pool.
+        Airport shuttle, city shuttle, conferencing facilities, babysitting and laundry services are provided at an additional charge.
+        The main building is fitted with CCTV cameras and the premises are guarded by security personnel.
+        Thika Town and Kenol Petrol Station are close to Golden Palm Breeze Hotel. </string>
+    <string name="golden_palm_breeze_addr">Golden Palm Breeze Hotel Kenol, Kenol-Muranga Road, Sanduku La Posta 30, MURANGA</string>
+
+    <string name="mukurwe_name">Mukurwe Wa Nyagathanga</string>
+    <string name="mukurwe_desc">Said to be the cradle of the Agikuyu   people, the fabled Mukurwe wa Nyagathanga is situated in Gaturi location in Kiharu Constituency.
+        History has it that mythical garden was focal point of dispersal of the Agikuyu after setting their foot in the slopes of Mount Kenya.
+        At the site, Kikuyu Traditional elders often perform rituals, and the Kikuyu elite use it to bring the community together for a  cause  of common interest.
+        Mukurwe wa Nyagathanga  is  gazetted  National monument  under  the charge of  National Museums of Kenya and Muranga County government.
+        The  historical  site has  ten huts  named  after the ten Gikuyu clans.</string>
+    <string name="mukurwe_addr">Mukurwe Wa Nyagathanga AGIKUYU Cultural Center</string>
+    <string name="aberdare_range_name">Aberdare National Park</string>
+    <string name="aberdare_range_desc">Encircled by the wild and beautiful moorlands of the third highest mountain range in Kenya,
+        Aberdare National Park offers a mist-wreathed realm where rhinos roam through lichen-hung forests,
+        spectacular waterfalls plunge into churning pools, and trout-ﬁlled streams cascade through mossy dells.</string>
+    <string name="aberdare_range_addr">Aberdare National Park</string>
+
+    <string name="muranga_high_sch_name">Murang’a High School</string>
+    <string name="muranga_high_sch_desc">Murang’a High School is a Public Secondary School, located in Located in Murang’a Town near Murang’a Town, Kiharu Constituency in Murang’a County</string>
+    <string name="muranga_high_sch_addr">MURANGA HIGH SCHOOL</string>
+    <string name="muranga_uni_name">Murang’a University of Technology</string>
+    <string name="muranga_uni_desc">Murang’a University of Technology is the Successor of Murang’a University College, a former constituent College of Jomo Kenyatta University of Agriculture and Technology after being elevated from Murang’a College of Technology</string>
+    <string name="muranga_uni_addr">Murang’a University of Technology, Murang’a University College, Muranga, MURANGA TOWN (fomer Fort Hall)</string>
+
+    <string name="east_end_mall_name">East End Mall</string>
+    <string name="east_end_mall_desc">East End Mall is a modern commercial property Situated at Kangari Township,Murang`a County along Kangari- Githumu- Thika Road.
+        Ideal for: Hospitals. colleges/university campus, medical centre, NGO’s.
+</string>
+    <string name="east_end_mall_addr">kangari township muranga county</string>
+</resources>

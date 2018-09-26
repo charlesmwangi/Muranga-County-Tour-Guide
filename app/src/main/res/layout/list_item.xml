@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/list_item_row"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/list_item_height">
+
+    <ImageView
+        android:id="@+id/list_item_image"
+        style="@style/list_item_image"
+        tools:src="@drawable/sample" />
+
+    <LinearLayout
+        android:id="@+id/text_container_linear_layout"
+        style="@style/list_item_linear_layout"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/list_item_title_text_view"
+            style="@style/list_item_title_text_view"
+            tools:text="Title of Attraction" />
+
+        <TextView
+            android:id="@+id/list_item_brief_desc_text_view"
+            style="@style/list_item_brief_desc_text_view"
+            tools:text="Brief Description of Attraction" />
+
+        <TextView
+            android:id="@+id/location_text_view"
+            style="@style/location_text_view"
+            tools:text="Brief Description of Attraction" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/list_item_forward_navigation_arrow_image_view"
+        style="@style/list_item_forward_navigation_arrow_image_view"
+        android:src="@drawable/ic_keyboard_arrow_right_black_24dp" />
+
+</RelativeLayout>
